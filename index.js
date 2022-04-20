@@ -36,3 +36,15 @@ function userInput(){
     message: 'What do you want to call this readme?',
     type: 'input'},
 ])};
+
+function writeToFile(fileName, data) {
+    fs.appendFile(`${fileName}.md`, data, 
+    (err) => err ? console.error(err) : console.log(`${fileName}.md has been generated.`))
+}
+
+async function init() {
+    let answers = await userInput();
+    writeToFile((answers.fileName),(generateMarkdown(answers)));
+}
+
+init();
