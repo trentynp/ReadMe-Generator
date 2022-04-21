@@ -1,44 +1,27 @@
-# ReadMe-Generator# ReadMe
-
-## Badges
-
-[![License: MS-PL](https://img.shields.io/badge/License-MS--PL-lightgrey.svg)](https://opensource.org/licenses/MS-PL)
+# ReadMe
 
 ## Table of Contents
 
-- [License](#license)
 - [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
-- [How to Contribute](#how-to-contribute)
-- [Tests](#tests)
 - [Questions?](#questions)
-
-## License
-
-Read more about Microsoft Public License here:
-[Microsoft Public License](https://opensource.org/licenses/MS-PL)
 
 ## Description
 
-This app generates a ReadMe file for your reops using simple details you provide.
+This App generates a ReadMe file for your repositories, using information that you input.
+
+## Installation
+
+Using the provided github repo link here ---> https://github.com/trentynp/ReadMe-Generator
 
 ## Usage
 
-simply use 'node index.js' in a terminal for this program to work.
-
-## How to Contribute
-
-[Contributor Covenant](https://www.contributor-covenant.org/)  
- you can contribute at the provided github link.
+you can use this app by accesing the terminal of the repo and typing in 'Node Index.js', you will the be prompted to input your infromation.
 
 ## Tests
 
-by cloning the repo and folllowing the instructions in this readme.
-
-## Questions?
-
 ### Reach me here:
 
-https://github.com/TrentynP  
-Trentynpowell@gmail.com
+[TrentynP](https://github.com/TrentynP)  
+ trentynpowell@gmail.com
